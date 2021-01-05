@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    font-family: 'IBM Plex Serif', serif; 
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    color: deeppink;
+}
+p{
+    color: gray;
+}
+.name-coloring{
+    color:DeepPink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: left 2%; ;
+}
+.half-width img{
+    width: 90%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    height: 500px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-batton{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 10px 10px;
+    border-radius: 20px;
+    color:white;
+    font-weight: 600;
+}
+.big-dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.img-hover{
+    box-shadow: 10px 20px 40px deeppink;
+    padding: 10px 10px 10px 10px;
+}
+.new-shadow{
+    box-shadow: 10px 20px 40px deeppink;
+    padding: 10px 10px 10px 10px;  
+}
+.single-experience{
+    box-shadow:10px 10px 40px deeppink;
+    border-radius: 10px;
+    height: 80%;
+    padding-left: 30px;
+    background-color:white;
+}
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experience-heading{
+    background-origin: padding-box;
+    text-align: center;
+    background-image:50px deeppink;
+}
+#full-stack{
+    border-left: 10px solid ;
+    border-image:linear-gradient(deeppink,pink );
+    border-image-slice:1;
+}
+#tada{
+    border-left: 10px solid ;
+    border-image:linear-gradient(deeppink,pink );
+    border-image-slice:1;
+} 
+.footer{
+    color:deeppink;
+    text-align: center;
+} 
